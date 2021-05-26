@@ -2,3 +2,4 @@
 - Agregando contenido desde dev
 
 - Desarrollador B editando el mismo archivo
+- Desarrollador A agregando contenido en archivo
