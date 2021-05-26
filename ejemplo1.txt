@@ -1,2 +1,4 @@
 - Agrego contenido desde rama master
 - Agregando contenido desde dev
+
+- Desarrollador B editando el mismo archivo
